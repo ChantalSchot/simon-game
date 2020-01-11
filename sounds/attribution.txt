@@ -1,0 +1,6 @@
+Sounds from freesound.org
+Ping1: edsward https://freesound.org/people/edsward/
+ping2: LittleRainySeasons https://freesound.org/people/LittleRainySeasons/
+Ping3: acclivity https://freesound.org/people/acclivity/
+Ping4: SpiceProgram https://freesound.org/people/SpiceProgram/sounds/387217/
+Error: original_sound https://freesound.org/people/original_sound/sounds/372197/
